@@ -26,8 +26,7 @@ void insertAthead(Node *&head,int d){
 void insertAttail(Node* &tail,int d){
     //new node created
     Node* temp=new Node(d);
-    temp->next=tail;
-    tail=temp;
+    
 
 }
 void print(Node* &head){
