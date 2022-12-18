@@ -1,0 +1,1 @@
+friend void greater(num1,num2);
